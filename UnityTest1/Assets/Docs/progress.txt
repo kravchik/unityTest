@@ -1,0 +1,37 @@
+
+
+
+//TODO
+edges
+control 1 sphere
+
+choose naming style
+arbitrary map2D size and position
+
+
+//DONE
+
+
+19.10.16
+commit on Github
+evaluate performance
+moving spheres formation + interrupter
+render in main camera
+UI for text and toggle
+optimized select of sphere for intersection
+isIn for each IAabb
+optimized UpdatePos in Map2D (don't remove if int pos doesn't changed)
+render physics debug
+different colors for different map entry count
+
+18.10.16
+map2D
+debug map2D, scene
+moving debug sphere
+recover IAabb
+better map2D debug
+IntRect
+Aabb -> FloatRect
+Lb,Rt -> l b r t
+physics
+
